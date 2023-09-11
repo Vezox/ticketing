@@ -1,0 +1,40 @@
+Ý tưởng: làm 1 hệ thống đặt vé có độ chịu tải cao
+
+Mục tiêu: 
+    - Có 1 hệ thống hoàn chỉnh gồm BE và FE
+    - Áp dụng nhiều công nghệ mớix
+    - Hệ thống đảm bảo tính toàn vẹn dữ liệu
+    - Khả năng xử lý đồng thời cao và tuần tự
+
+Lựa chọn công nghệ:
+    - Mô hình: Microservice - Khả năng mở rộng cao
+    - Back end: NodeJS/NestJS/TypeScript - Cấu trúc rõ ràng, dễ đọc, dễ bảo trì
+    - Database: 
+        - MongoDB: Khả năng mở rộng cao, dễ dàng thay đổi cấu trúc
+        - PostgreSQL: Phù hợp với các mối quan hệ phức tạp, xử lý transaction
+    - Message Broker: Kafka - Khả năng xử lý tuần tự, đảm bảo tính toàn vẹn 
+    - Cache: Redis
+    - DevOps: Docker, Kubernetes (coming soon)
+    - Front end: VueJS/TypeScript - Phát triển nhanh, dễ bảo trì
+
+Khó khăn:
+    - Nhiều công nghệ mới, cần thời gian tìm hiểu
+    - Cấu trúc dữ liệu phức tạp
+    - Xử lý tuần tự các request
+    - Đảm bảo tính toàn vẹn dữ liệu
+    - Xử lý transaction
+
+Các bước thực hiện:
+    - Tìm hiểu các công nghệ
+    - Thiết kế cấu trúc dữ liệu
+    - Thiết kế cấu trúc hệ thống
+    - Xây dựng BE
+    - Xây dựng FE
+    - Tối ưu hóa hệ thống
+
+Dự kiến thời gian hoàn thành: 3h/ngày x 30 ngày x 3 tháng = 270h
+
+Triển khai:
+    - 11/09/2023: ngồi viết cái đống này, tạo git repo
+
+
