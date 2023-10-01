@@ -14,6 +14,7 @@ Lựa chọn công nghệ:
         - PostgreSQL: Phù hợp với các mối quan hệ phức tạp, xử lý transaction
     - Message Broker: Kafka - Khả năng xử lý tuần tự, đảm bảo tính toàn vẹn 
     - Cache: Redis
+    - Search: ElasticSearch
     - DevOps: Docker, Kubernetes (coming soon)
     - Front end: VueJS/TypeScript - Phát triển nhanh, dễ bảo trì
 
@@ -36,5 +37,7 @@ Dự kiến thời gian hoàn thành: 3h/ngày x 30 ngày x 3 tháng = 270h
 
 Triển khai:
     - 11/09/2023: ngồi viết cái đống này, tạo git repo
+    - 12/09/2023: setup mấy cái cơ bản
+    - 14/09/2023: tìm hiểu, setup kafka
 
 
